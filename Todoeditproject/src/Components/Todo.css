@@ -1,0 +1,31 @@
+.todo-item {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* gap: 100px; */
+  }
+  
+  .todo-item.completed .task {
+    text-decoration: line-through;
+    color: firebrick;
+  }
+  
+  .task {
+    cursor: pointer;
+  }
+  
+  .icons {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .icon {
+    cursor: pointer;
+    color: red;
+  }
+  

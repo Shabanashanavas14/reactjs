@@ -1,0 +1,61 @@
+
+body {
+    background-color: green;
+    font-family: Arial, sans-serif; 
+    margin: 0;
+    padding:100px;
+  }
+  
+
+  form {
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    /* border-radius: 8px; */
+    box-shadow: black;
+  }
+  
+  input[type="text"] {
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color:#f7f7f7;
+  }
+  
+  
+  button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: green;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    color: white; 
+  }
+  
+
+  button[type="submit"]:hover {
+    background-color: darkgreen; 
+  }
+  
+  
+  p {
+    text-align: center;
+    color: gray;
+  }
+  
+
+  .create {
+    color: green;
+    cursor: pointer;
+  }
+  
+  /* Add underline effect on hover for 'create' text */
+  .create:hover {
+    text-decoration: underline;
+  }
+  

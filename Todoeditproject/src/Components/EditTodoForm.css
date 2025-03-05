@@ -1,0 +1,33 @@
+.edit-todo-form {
+    display: flex;
+    
+    gap: 15px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 100px;
+    width: 90%;
+    
+  }
+  
+  .input-field {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: black;
+    gap: 10px;
+  }
+  
+  .submit-btn {
+    padding: 10px;
+    background-color:firebrick;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color:orangered;
+  }
+  

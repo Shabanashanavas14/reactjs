@@ -1,0 +1,78 @@
+.container {
+    width: 90%;
+    max-width: 1200px; /* Increased max-width to accommodate horizontal layout */
+    margin: 0 auto;
+  }
+  
+  .hero {
+    background-color: #333;
+    color: white;
+    padding: 50px;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 30px;
+  }
+  
+  .hero p {
+    font-size: 16px;
+  }
+  
+  .btn-discover {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-transform: uppercase;
+  }
+  
+  .btn-discover:hover {
+    background-color: orange;
+  }
+  
+  .destinations {
+    padding: 40px;
+    background-color: aliceblue;
+  }
+  
+  .row {
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    gap: 20px; 
+  }
+  
+  .destination {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 20px;
+    margin: 10px;
+    width: 30%; 
+    max-width: 400px; 
+    box-sizing: border-box; 
+  }
+  
+  .destination img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 50%; 
+    margin-bottom: 10px; 
+  }
+  
+  .destination h5 {
+    font-size: 20px;
+  }
+  
+  .destination p {
+    font-size: 14px;
+    font-family: cursive;
+    color: grey;
+  }
+  
+  .destination ul {
+    list-style-type: none;
+    padding: 0;
+    font-size: 15px;
+    color: grey;
+  }
+  

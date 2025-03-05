@@ -1,0 +1,133 @@
+/* Reset some default styles
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+} */
+
+/* Navbar styling */
+/* .navbar {
+    background-color: #343a40;
+    color: white;
+    padding: 15px;
+}
+
+.navbar .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-nav {
+    list-style: none;
+    display: flex;
+}
+
+.navbar-nav li {
+    margin-left: 20px;
+}
+
+.navbar-nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+} */
+
+/* Hero Section */
+/* .hero {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+.hero .btn-discover {
+    background-color: white;
+    color: #007bff;
+    font-size: 1.1em;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.hero .btn-discover:hover {
+    background-color: #0056b3;
+    color: white;
+} */
+
+/* Destinations Section */
+/* .destinations {
+    padding: 50px 0;
+    background-color: #f4f4f4;
+}
+
+.destinations .container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.destination {
+    background-color: white;
+    width: 300px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.destination img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.destination h5 {
+    margin-top: 15px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+.destination p {
+    font-size: 1em;
+    color: #555;
+    margin-top: 10px;
+}
+
+.destination ul {
+    list-style: none;
+    margin-top: 15px;
+    padding: 0;
+    color: #555;
+}
+
+.destination ul li {
+    margin-bottom: 5px;
+} */
+
+/* Footer */
+/* footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer p {
+    margin: 5px 0;
+} */
