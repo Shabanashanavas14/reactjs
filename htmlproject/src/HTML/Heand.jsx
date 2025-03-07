@@ -7,7 +7,7 @@ export default function Heand() {
       <header>
           <div>
             <h1><u>Explore our amazing tour</u></h1>
-            <p>Your journey starts here. Explore amazing destinations around the world. Discover the world-exclusive travel packages.</p>
+            <p>Explore amazing destinations around the world. Discover the world-exclusive travel packages.</p>
       <img src={travel} alt="" />
           </div>
         </header>
